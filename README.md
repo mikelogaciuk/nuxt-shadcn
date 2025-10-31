@@ -1,5 +1,7 @@
 # Nuxt ShadCN-Vue
 
+![Hero](./public/hero.png)
+
 ## 📃 Table of Contents
 
 - [Nuxt ShadCN-Vue](#nuxt-shadcn-vue)
@@ -7,6 +9,7 @@
   - [🚀 Getting Started](#-getting-started)
   - [📦 Installation](#-installation)
   - [🏃 Running locally](#-running-locally)
+  - [⚠️ Troubleshooting](#️-troubleshooting)
 
 ## 🚀 Getting Started
 
@@ -35,3 +38,13 @@ npm run dev
 ```
 
 Then open your browser and navigate to [http://localhost:3000](http://localhost:3000).
+
+## ⚠️ Troubleshooting
+
+Sometimes you might run into issues with dependecies for ShadCN-Vue.
+
+Usually, this helps:
+
+```shell
+npm install -D typescript
+```
