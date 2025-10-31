@@ -25,7 +25,7 @@ Ready to kickstart your Nuxt 3 project with ShadCN-Vue components? This template
 In order to use it, as your template just clone the repo and install the dependencies:
 
 ```shell
-npx nuxi init my-project -t https://github.com/mikelogaciuk/nuxt-shadcn
+npx nuxi init my-project -t https://codeload.github.com/mikelogaciuk/nuxt-shadcn/tar.gz/main
 cd my-project && npm i
 ```
 
